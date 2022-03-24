@@ -1,0 +1,3 @@
+namespace CUDA {
+	bool checkCollision();
+}
